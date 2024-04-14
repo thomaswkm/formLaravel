@@ -1,0 +1,58 @@
+.container{
+    margin-top: 75px;
+    padding: 0 100px;
+}
+
+.box-1{
+    height: 600px;
+    width: 800px;
+    background-color: rgba(213, 43, 30, 0.5);
+    border-radius: 25px;
+    float: left;
+}
+
+.box-2{
+    height: 600px;
+    width: 800px;
+    background-color: rgb(0, 57, 166,0.5);
+    border-radius: 25px;
+    float: right;
+}
+
+
+.centered-header{
+    text-align: center;
+}
+
+.fondo{
+    background-image: url("resources/cancha.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+}
+
+select{
+    width: 50%;
+    height: 25px;
+    margin-left: 175px;
+    margin-bottom: 10px;
+    background-color: #d9dde0;
+    color: rgb(71, 71, 71);
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+
+}
+
+input[type="submit"] {
+    width: 20%;
+    height: 50px;
+    margin-left: 650px;
+    margin-top: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+
+
